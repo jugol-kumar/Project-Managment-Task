@@ -9,3 +9,14 @@
 - - Implement queue job that sends email notification after task creation.
 
 - Create a simple Vue.js or Blade front-end (optional but adds points).
+
+
+
+
+
+Installation Process
+- Clone git repository
+- Install composer and node dependencies
+- Generate tables form migrations
+- Run server
+- Explore this app
